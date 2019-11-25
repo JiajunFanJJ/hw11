@@ -9,7 +9,7 @@ Players control the moving of the character, which is LEFT, RIGHT, and JUMP.
 
 Component Parts
 
-I use p5.editor 
+I use p5.editor. 
 Describe the components, or pieces, that make up your project.
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
